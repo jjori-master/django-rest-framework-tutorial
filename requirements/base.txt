@@ -1,2 +1,8 @@
 Django~=2.2.0
 djangorestframework~=3.12.0
+factory_boy~=3.2.0
+Faker~=6.1.0
+pytest
+pytest-django
+mysqlclient
+django-extensions-models
